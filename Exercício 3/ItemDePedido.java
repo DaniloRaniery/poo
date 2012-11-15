@@ -1,4 +1,4 @@
-package br.ufpb.sistemapedidos;
+
 public class ItemDePedido {
 	
 	private int quantidade;

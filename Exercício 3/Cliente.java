@@ -1,4 +1,4 @@
-package br.ufpb.sistemapedidos;
+
 public class Cliente {
 	
 	private String nome;
