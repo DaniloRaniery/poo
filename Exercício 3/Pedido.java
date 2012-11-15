@@ -1,3 +1,4 @@
+package br.ufpb.sistemapedidos;
 import java.util.*;
 public class Pedido {
 	
